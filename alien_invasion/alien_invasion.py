@@ -26,3 +26,5 @@ if __name__ == '__main__':
     #создание экхемпляра и запуск игры
     ai = AlienInvasion()
     ai.run_game()    
+
+    #weqweqwe
