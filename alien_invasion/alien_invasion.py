@@ -30,6 +30,6 @@ class AlienInvasion:
             pygame.display.flip()
 
 if __name__ == '__main__':
-    #создание экхемпляра и запуск игры
+    #создание экхемпляра и запуск игры1
     ai = AlienInvasion()
     ai.run_game()    
